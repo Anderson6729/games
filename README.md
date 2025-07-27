@@ -342,7 +342,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
-
+* [funnygame](https://funnygame.games) - Funny Free Online Games.
+* 
 ## Puzzle/card/board
 
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
@@ -422,7 +423,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Others
 
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
-
+* [Build & Survive](https://build-survive.com) - Build & Survive is more than just a survival game—it's an open canvas for your creativity and resourcefulness in a challenging wilderness environment.
+* [Italian Brainrot Clicker](https://italian-brainrot.games) - Italian Brainrot Clicker Game.
+* [tiny fishing](https://tiny-fishing.games) - Tiny Fishing is a fun fishing game where you draw your line and hook as many fish as possible.
 # Mobile Games
 
 ## Android
